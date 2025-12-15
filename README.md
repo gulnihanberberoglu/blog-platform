@@ -170,4 +170,3 @@ npm run dev
 
 ---
 
-Basit görünen ama doğru kurulan yapılar uzun vadede kazanır.
